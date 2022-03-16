@@ -14,5 +14,6 @@
     padding: 30px;
     margin-bottom: 15px;
     display: flex;
-    justify-content: flex-start;
+    text-align: center;
+    justify-content: center;
 }

@@ -10,9 +10,9 @@
 </head>
 <body>
 <div class="container">
-    <div class="item1"><img class="logo1" src="./img/logo1.png"/></img></div>
-    <div class="item2"><img class="background" alt="" src="./img/background.jpg"/></img></div>
-    <div class="item">2</div>
+    <div class="item1"><img class="logo1" href="index.php" src="./img/logo1.png"/></img></div>
+    <div class="item2"><img class="background" alt="" src="./img/background.png"/></img></div>
+    <div class="item2"><button><a href="contact.php">Nous contacter</a></button></div>
     <div class="item">3</div>
     <div class="item">4</div>
 
