@@ -1,0 +1,18 @@
+/* ici item block j'ai couper mes zone de site en block*/
+
+.item1{
+    cursor: pointer;
+    padding: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.item2{
+    z-index: 0vh;
+    padding: 30px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+}
