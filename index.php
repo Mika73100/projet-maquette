@@ -8,7 +8,6 @@
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Palette+Mosaic&family=Poppins:wght@100&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="./styleblock.css">
@@ -28,33 +27,26 @@
         <div class="item3"><img class="carte" alt="carte" src="./img/carte.jpg" height="auto" width="auto" /></div>
 
         <div class="item3">
-                    lundi Fermé<br>
-                    mardi 09:15–12:15, 15:30–19:00<br>
-                    mercredi 09:15–12:15, 15:30–19:00<br>
-                    jeudi 09:15–12:15, 15:30–19:00<br>
-                    vendredi 09:15–12:15, 15:30–19:00<br>
-                    samedi 09:15–12:15, 15:30–19:00<br>
-                    dimanche 10:00–12:30
+                    <br>
+                    lundi : Fermé<br>
+                    mardi : 09:15–12:15, 15:30–19:00<br>
+                    mercredi : 09:15–12:15, 15:30–19:00<br>
+                    jeudi : 09:15–12:15, 15:30–19:00<br>
+                    vendredi : 09:15–12:15, 15:30–19:00<br>
+                    samedi : 09:15–12:15, 15:30–19:00<br>
+                    dimanche : 10:00–12:30
         </div>
     </div>
 
-        <div class="item3">4</div>
-
-
-
-
-
-
-
-
-
 
 <footer>
-	<div class="item3">
-        <p>
-            
-        </p>
-	</div>
+	
+<img class="logo1" src="img/picto-map-blanc.png" width="30px" height="30px" alt="Logo">
+    <p>79 Avenue de Marlioz 73100 Aix-les-Bains France</p>
+    <img class="logo1" src="img/picto-map-blanc.png" width="30px" height="30px" alt="Logo">
+    <img class="logo1" src="img/picto-map-blanc.png" width="30px" height="30px" alt="Logo">
+    <img class="logo1" src="img/picto-map-blanc.png" width="30px" height="30px" alt="Logo">
+
 </footer>
 </body>
 </html>

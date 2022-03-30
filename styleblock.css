@@ -1,11 +1,4 @@
-.container2{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap; 
-    /*ici pratique pour placer 
-    a div en dessous de l autre en responsive*/
-    justify-content: space-evenly;
-}
+
 
 /* ici je m'occupe du logo*/
 .item1{
@@ -18,6 +11,7 @@
 }
 
 
+
 /* ici item2 boutton nous contacter*/
 .item2{
     padding: 30px;
@@ -28,15 +22,42 @@
 }
 
 
+
+/* container */
+.container2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    /*ici pratique pour placer 
+    a div en dessous de l autre en responsive*/
+    justify-content: center;
+    
+}
+
+
+
 /* ici item block j'ai couper mes zone de site en block*/
 .item3{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    /*ici pratique pour placer 
-    a div en dessous de l autre en responsive*/
     justify-content: space-evenly;
-    background-color: aqua;
+    font-size: x-large;
+    line-height: 2.5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Palette Mosaic', cursive;
+    padding-bottom: 50px;
 }
 
 
+
+footer{
+    padding-top: 50px;
+    font-size: 15px;
+    color:white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: 50px;
+    background-color: rgb(100, 51, 216);
+}
