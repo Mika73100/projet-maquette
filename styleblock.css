@@ -1,5 +1,5 @@
-/* ici item block j'ai couper mes zone de site en block*/
 
+/* ici je m'occupe du logo*/
 .item1{
     cursor: pointer;
     padding: 30px;
@@ -9,11 +9,41 @@
     justify-content: flex-start;
 }
 
+
+/* ici item2 boutton nous contacter*/
 .item2{
-    z-index: 0vh;
     padding: 30px;
     margin-bottom: 15px;
     display: flex;
     text-align: center;
     justify-content: center;
 }
+
+
+
+/* ici la carte*/
+#Global
+{   display: flex;
+    flex-direction: row-wrap;
+    
+}
+#Global #gauche {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: brown;
+}
+#Global #droite { 
+    flex-direction: row-wrap;
+    display: flex;
+}
+
+
+
+/* ici item block j'ai couper mes zone de site en block*/
+.item3{
+    margin: 20px;
+    justify-content: center;
+    background-color: rgb(65, 128, 89);
+}
+
+
