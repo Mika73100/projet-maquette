@@ -5,6 +5,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Palette+Mosaic&family=Poppins:wght@100&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="./styleblock.css">
     <title>LE FLEURISTE</title>
@@ -19,19 +24,19 @@
         <div class="item2"><button class="button"><a href="contact.php">Nous contacter</a></button></div>
 
 
-        <div id="Global">
-        <div id="gauche"><img class="carte" alt="carte" src="./img/carte.jpg" height="auto" width="auto" /></div>
+    <div class="container2">
+        <div class="item3"><img class="carte" alt="carte" src="./img/carte.jpg" height="auto" width="auto" /></div>
 
-        <div id="droite">
-                    <li>lundi Fermé</li><br>
-                    <li>mardi 09:15–12:15, 15:30–19:00</li><br>
-                    <li>mercredi 09:15–12:15, 15:30–19:00</li><br>
-                    <li>jeudi 09:15–12:15, 15:30–19:00</li><br>
-                    <li>vendredi 09:15–12:15, 15:30–19:00</li><br>
-                    <li>samedi 09:15–12:15, 15:30–19:00</li><br>
-                    <li>dimanche 10:00–12:30</li>
+        <div class="item3">
+                    lundi Fermé<br>
+                    mardi 09:15–12:15, 15:30–19:00<br>
+                    mercredi 09:15–12:15, 15:30–19:00<br>
+                    jeudi 09:15–12:15, 15:30–19:00<br>
+                    vendredi 09:15–12:15, 15:30–19:00<br>
+                    samedi 09:15–12:15, 15:30–19:00<br>
+                    dimanche 10:00–12:30
         </div>
-        </div>
+    </div>
 
         <div class="item3">4</div>
 

@@ -1,3 +1,11 @@
+.container2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    /*ici pratique pour placer 
+    a div en dessous de l autre en responsive*/
+    justify-content: space-evenly;
+}
 
 /* ici je m'occupe du logo*/
 .item1{
@@ -20,30 +28,15 @@
 }
 
 
-
-/* ici la carte*/
-#Global
-{   display: flex;
-    flex-direction: row-wrap;
-    
-}
-#Global #gauche {
-    display: flex;
-    justify-content: space-evenly;
-    background-color: brown;
-}
-#Global #droite { 
-    flex-direction: row-wrap;
-    display: flex;
-}
-
-
-
 /* ici item block j'ai couper mes zone de site en block*/
 .item3{
-    margin: 20px;
-    justify-content: center;
-    background-color: rgb(65, 128, 89);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /*ici pratique pour placer 
+    a div en dessous de l autre en responsive*/
+    justify-content: space-evenly;
+    background-color: aqua;
 }
 
 
